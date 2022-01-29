@@ -1,3 +1,3 @@
 # <img src="https://i.imgur.com/T496CFr.png" align="center">
 
-<p>Hello<p>
+<p align="center">Hello<p>
